@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a researcher at [Fraunhofer IEG](https://www.ieg.fraunhofer.de/).
+I'm an Physicist.
+
+In my last job, I was a researcher at [Fraunhofer IEG](https://www.ieg.fraunhofer.de/).
 
 Before, I was a Solution Engineer at [d-fine GmbH](https://www.d-fine.com/).
 
